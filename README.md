@@ -2,7 +2,7 @@
 
 **React & Redux Application that allow users to access the Lastfm API to get various artist information**
 
-Live project viewable at: https://kyledkearney.github.io/museable/
+Live project viewable at: https://kylekrny.github.io/museable/
 
 ---
 
